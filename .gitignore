@@ -1,0 +1,53 @@
+/.idea
+
+### compiled output
+/FirstApp/dist
+/FirstApp/tmp
+
+# dependencies
+/FirstApp/node_modules
+/FirstApp/bower_components
+
+# misc
+/FirstApp/.sass-cache
+/FirstApp/connect.lock
+/FirstApp/coverage/*
+/FirstApp/libpeerconnection.log
+/FirstApp/npm-debug.log
+/FirstApp/testem.log
+/FirstApp/typings
+
+# e2e
+/FirstApp/e2e/*.js
+/FirstApp/e2e/*.map
+
+#System Files
+/FirstApp/.DS_Store
+/FirstApp/Thumbs.db
+
+####################### recipe-book #########################
+
+# compiled output
+/recipe-book/dist
+/recipe-book/tmp
+
+# dependencies
+/recipe-book/node_modules
+/recipe-book/bower_components
+
+# misc
+/recipe-book/.sass-cache
+/recipe-book/connect.lock
+/recipe-book/coverage/*
+/recipe-book/libpeerconnection.log
+/recipe-book/npm-debug.log
+/recipe-book/testem.log
+/recipe-book/typings
+
+# e2e
+/recipe-book/e2e/*.js
+/recipe-book/e2e/*.map
+
+#System Files
+/recipe-book/.DS_Store
+/recipe-book/Thumbs.db
